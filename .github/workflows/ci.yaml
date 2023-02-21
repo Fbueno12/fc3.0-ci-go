@@ -10,4 +10,4 @@ jobs:
         with:
           go-version: 1.15
       - run: go test
-      - tun: go run math.go
+      - run: go run math.go
